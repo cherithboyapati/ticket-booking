@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "title": "Project Hail Mary",
+        "category": "Movie",
+        "location": "Grand Cinema, Los Angeles",
+        "price": 18,
+        "image": "/assets/movie.png",
+        "description": "Astronaut Ryland Grace wakes up on a spaceship with no memory of how he got there, only to realize he's humanity's last hope for survival. Based on Andy Weir's bestselling novel.",
+        "seatsAvailable": 50,
+        "schedule": [
+            {
+                "date": "2026-03-20",
+                "times": [
+                    "13:00",
+                    "16:00",
+                    "19:00",
+                    "22:00"
+                ]
+            },
+            {
+                "date": "2026-03-21",
+                "times": [
+                    "13:00",
+                    "16:00",
+                    "19:00",
+                    "22:00"
+                ]
+            },
+            {
+                "date": "2026-03-22",
+                "times": [
+                    "13:00",
+                    "19:00"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Lady Gaga: The MAYHEM Ball",
+        "category": "Music",
+        "location": "Moody Center, Austin",
+        "price": 150,
+        "image": "/assets/concert.png",
+        "description": "Lady Gaga returns to the stage with a theatrical pop masterpiece. Expect avant-garde fashion, powerful vocals, and a performance like no other.",
+        "seatsAvailable": 85,
+        "schedule": [
+            {
+                "date": "2026-03-08",
+                "times": [
+                    "20:00"
+                ]
+            },
+            {
+                "date": "2026-03-09",
+                "times": [
+                    "20:00"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Love & War (SLB)",
+        "category": "Movie",
+        "location": "PVR Director's Cut, Mumbai",
+        "price": 25,
+        "image": "/assets/movie.png",
+        "description": "A grand romantic epic directed by Sanjay Leela Bhansali, starring Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal. A visual masterpiece of love and sacrifice.",
+        "seatsAvailable": 45,
+        "schedule": [
+            {
+                "date": "2026-03-20",
+                "times": [
+                    "12:00",
+                    "15:00",
+                    "18:00",
+                    "21:00"
+                ]
+            },
+            {
+                "date": "2026-03-21",
+                "times": [
+                    "12:00",
+                    "15:00",
+                    "18:00",
+                    "21:00"
+                ]
+            },
+            {
+                "date": "2026-03-22",
+                "times": [
+                    "12:00",
+                    "18:00"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Bruce Springsteen & E Street Band",
+        "category": "Music",
+        "location": "Kia Forum, Los Angeles",
+        "price": 125,
+        "image": "/assets/concert.png",
+        "description": "The Boss returns for a legendary performance with the E Street Band. A high-energy journey through decades of rock and roll history.",
+        "seatsAvailable": 40,
+        "schedule": [
+            {
+                "date": "2026-04-07",
+                "times": [
+                    "19:30"
+                ]
+            },
+            {
+                "date": "2026-04-08",
+                "times": [
+                    "19:30"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Shakira: Feeding India Concert",
+        "category": "Music",
+        "location": "Mahalaxmi Racecourse, Mumbai",
+        "price": 80,
+        "image": "/assets/concert.png",
+        "description": "Global superstar Shakira headlines the Feeding India Concert. An electrifying night of dance, music, and social impact in the heart of Mumbai.",
+        "seatsAvailable": 120,
+        "schedule": [
+            {
+                "date": "2026-04-10",
+                "times": [
+                    "19:00"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Toxic: A Fairy Tale for Grown-Ups",
+        "category": "Movie",
+        "location": "Nexus Elante, Delhi",
+        "price": 15,
+        "image": "/assets/movie.png",
+        "description": "Yash stars in this gritty period gangster epic. A tale of power, betrayal, and redemption set against a dark, industrial backdrop.",
+        "seatsAvailable": 35,
+        "schedule": [
+            {
+                "date": "2026-03-19",
+                "times": [
+                    "12:00",
+                    "15:30",
+                    "18:00",
+                    "21:00"
+                ]
+            },
+            {
+                "date": "2026-03-20",
+                "times": [
+                    "12:00",
+                    "15:30",
+                    "18:00",
+                    "21:00"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Karan Aujla: P-Pop Culture Tour",
+        "category": "Music",
+        "location": "MMRDA Grounds, Mumbai",
+        "price": 45,
+        "image": "/assets/concert.png",
+        "description": "The king of Punjabi pop arrives in Mumbai for his massive India tour. Experience the energy and hits that have taken the global charts by storm.",
+        "seatsAvailable": 150,
+        "schedule": [
+            {
+                "date": "2026-03-29",
+                "times": [
+                    "18:30"
+                ]
+            },
+            {
+                "date": "2026-03-30",
+                "times": [
+                    "18:30"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Bhooth Bangla (Horror-Comedy)",
+        "category": "Movie",
+        "location": "Phoenix Marketcity, Bangalore",
+        "price": 12,
+        "image": "/assets/movie.png",
+        "description": "Akshay Kumar returns to the horror-comedy genre with Priyadarshan. A hilarious and spooky rollercoaster ride in a haunted mansion.",
+        "seatsAvailable": 60,
+        "schedule": [
+            {
+                "date": "2026-04-10",
+                "times": [
+                    "13:00",
+                    "16:00",
+                    "19:00",
+                    "22:00"
+                ]
+            },
+            {
+                "date": "2026-04-11",
+                "times": [
+                    "13:00",
+                    "16:00",
+                    "19:00",
+                    "22:00"
+                ]
+            }
+        ]
+    }
+]
